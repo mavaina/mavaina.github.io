@@ -1,0 +1,37 @@
+
+body{
+background-color: #001a44;
+font-size: 60px;
+color: white;
+
+}
+p{  font-size:14px;
+   font-family: Helvetica;}
+   
+ul{ list-style-type: none;}
+
+li{  display: inline;
+      border: solid 2px #404449;
+	  font-family: Cursive, Sans-serif;
+	  color: #ffffff;
+	  padding:5px;
+	  border-radius: 5px 5px;
+      background-color: #24395b;
+	  text-decoration:none;}
+ 
+a:link { text-decoration: none;
+	  color: #ffffff;}
+	  
+a:hover {color: #000000;
+	font-weight: bold;
+   text-decoration:none;}
+#home
+#container 
+  #header
+  #menu
+   #banner ( margin: auto;}
+   #content
+      #picture
+      #right {text-align: right; float: right;}
+      #video
+    #footer { border: solid 2px black;}
