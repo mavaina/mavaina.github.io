@@ -29,9 +29,9 @@ a:hover {color: #000000;
 #container 
   #header
   #menu
-   #banner ( margin: auto;}
+   #banner (position:relative; margin: auto;}
    #content
       #picture
-      #right {text-align: right; float: right;}
+      #right {position:relative; text-align: right; float: right;}
       #video
     #footer { border: solid 2px black;}
