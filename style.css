@@ -5,6 +5,9 @@ font-size: 60px;
 color: white;
 
 }
+span {
+  content: "\2193";
+}
 p{  font-size:20px;
    font-family: Cursive;
    text-indent:50px;}
