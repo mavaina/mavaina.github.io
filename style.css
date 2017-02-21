@@ -65,15 +65,23 @@ table,th, td {
 	width:600px;}
    #footer {border: solid 2px #dee2e8;
 	         border-radius: 20px ;
-			 padding: 10px;}
+			 padding: 10px;
+			 margin-bottom: 0px;}
+			
 	
 	#aboutme{display:inline;}
 	#text{
 	width:1200px; text-align:left; margin-right:800px;}	
 	#profpic { margin-left:600px;
-	padding: 10px}
+	padding: 10px;}
 	#infome{display:inline;}
-
+	#pantomime img{height: 200px;
+	                width:300px;}
+	#newcircus img{height: 200px;
+	                width:300px;}
+		#other	img{height: 200px;
+	                width:300px;}
+#calendar {color:#969696;}
 #home
 #container 
   #header
